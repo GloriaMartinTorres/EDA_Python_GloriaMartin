@@ -15,3 +15,9 @@ He concatenado la información de los tres dataframes sobre clientes.
 He utilizado el método join para unir los datos del banco y la concatenación de los clientes.
 
 
+Extracción de datos:
+He decidido dividir los datos a analizar en tres grupos:
+    1. Datos personales de los clientes: edad media; trabajos que realizan; estado marital; nivel educativo; ingresos medios, máximo, mínimo y mediana; número de niños y adolescentes, y media de visitas a la web. 
+    2. Datos bancarios de los clientes: suma de incumplimiento de los pagos, suma de préstamos hipotecarios, suma de otros préstamos, suma de productos suscritos.
+    3. Datos sobre la campaña realizada: media de contratos realizados; media, máximo y mínimo de la duración de la llamada; media de contactos previos, y porcentaje de éxito en la campaña anterior.
+Saber estos datos nos ayudará a conocer mejor a los clientes del banco y nos permitirá empezar a hacernos preguntas.
