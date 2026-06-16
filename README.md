@@ -7,6 +7,7 @@ He creado una copia del dataframe para hacer las modificaciones en ella sin perd
 He cambiado el formato de la columna "date" de string a datetime para poder crear columnas con los años y los meses. Luego he creado las columnas "contact_year" y "cotact_month" y las he convertido en integer.
 He cambiado el nombre de la columna "id_" por "ID" para que sea igual que en el archivo .xlsx y la he puesto como índice.
 He eliminado las columnas "Unnamed: 0", "latitude" y "longitude" porque no voy a usarlas para este estudio.
+He eliminado las columnas "emp.var.rate", "cons.price.idx", "cons.conf.idx" y "euribor3m" por la misma razón que las anteriores.
 He renombrado la columna "y" como "product" para que la información sea más clara.
 En las columnas "default", "housing" y "loan", he cambiado el 0 por no y el 1 por yes para que la información sea más clara.
 He abierto las distintas hojas del archivo .xlsx "customer-details".
@@ -21,3 +22,26 @@ He decidido dividir los datos a analizar en tres grupos:
     2. Datos bancarios de los clientes: suma de incumplimiento de los pagos, suma de préstamos hipotecarios, suma de otros préstamos, suma de productos suscritos.
     3. Datos sobre la campaña realizada: media de contratos realizados; media, máximo y mínimo de la duración de la llamada; media de contactos previos, y porcentaje de éxito en la campaña anterior.
 Saber estos datos nos ayudará a conocer mejor a los clientes del banco y nos permitirá empezar a hacernos preguntas.
+
+Datos personales de los clientes:
+    -La edad media de los clientes del banco es de unos 40 años.
+    -La mayor parte son administrativos (10873), obreros (9654) y técnicos (7026). Los grupos con menor representación son estudiantes (903), desempleados (1063) y empleadas domésticas (1123).
+    -La mayor parte están casados (25999).
+    -12722 personas tienen un grado universitario, 9925 han terminado el instituto y 5477 han realizado un curso profesional. También hay un pequeño número de analfabetos (18).
+    -La media de ingresos es de 93241 dólares (?) al año. El máximo de ingresos es 180802 y el mínimo es 5841.
+    -Los datos de número de niños y adolescentes en casa son muy parecidos estando alrededor de 14000 tanto en uno, dos o ninguno.
+    -La media de visitas mensuales a la web es de 16.5 veces.
+
+Datos bancarios de los clientes:
+    -Tan solo tres personas han incumplido con los pagos.
+    -Más de la mitad (22498) tienen un préstamo hipotecario.
+    -La mayoría (36468) no tienen otro tipo de préstamos.
+    -La mayoría (38156) no han suscrito ningún producto o servicio.
+
+Datos sobre la campaña realizada:
+    -De media se ha contactado 2,5 veces con los clientes.
+    -La duración media de las llamadas es de 257 segundos. La duración máxima es de 4918 segundos.  
+    -A la mayoría de los clientes (37103) no se les contactó en la anterior campaña. 
+    -El porcentaje de éxito de la anterior campaña es del 24,35 %.
+
+        
