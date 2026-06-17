@@ -44,4 +44,21 @@ Datos sobre la campaña realizada:
     -A la mayoría de los clientes (37103) no se les contactó en la anterior campaña. 
     -El porcentaje de éxito de la anterior campaña es del 24,35 %.
 
-        
+Preguntas:
+Una vez analizados los datos de los clientes y la campaña, surgen las siguientes dudas:
+    1. ¿Quiénes piden más préstamos hipotecarios? Edad, empleo, estado marital, nivel de estudios.
+    2. ¿Quiénes responden mejor a las campañas? Edad, empleo, estado marital, nivel de estudios, hipoteca.
+
+He decidido centrarme solo en personas con préstamos hipotecarios y no otros tipos de préstamos o productos porque es el único grupo en el que hay una mayoría de sí y, por lo tanto, podemos obtener más información sobre ellos. Además, podemos ver que la mayoría de personas que respondieron de forma positiva a la anterior campaña tenían una hipoteca contratada (797).
+
+Respondiendo a las preguntas anteriores sobre préstamos hipotecarios, observamos que:
+    -El rango de edad en el que se adquieren más préstamos hipotecarios va de los 29 a los 38 años, mientras que las personas mayores de 75 años contratan menos este tipo de préstamos.
+    -Los oficios más comunes entre las personas con una hipoteca son administrativos (5792), obreros(4913) y técnicos(3761).
+    -La mayoría están casados (13492).
+    -La mayoría tienen un grado universitario (6796) o han terminado el instituto(5127).
+
+Por otro lado, respecto a la campaña anterior:
+    -Fue un éxito entre las personas entre 26 y 37 años.
+    -La mayoría de personas que respondieron favorablemente eran administrativos (448), técnicos (220) o estaban jubilados (164). Cabe destacar que el número de estudiantes es bastante alto (122) en comparación con los estudiantes que son clientes del banco (903).
+    -Aunque sigue habiendo mayoría de casados (863), aquí la diferencia no es tan importante respecto a los solteros (532) como en datos anteriores.
+    -La mayoría tienen un grado universitario (563) o han terminado el instituto (305).
