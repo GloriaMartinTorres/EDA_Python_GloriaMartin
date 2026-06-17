@@ -54,3 +54,30 @@ Respondiendo a las preguntas anteriores, observamos que::
     -Aunque sigue habiendo mayoría de casados (863), aquí la diferencia no es tan importante respecto a los solteros (532) como en datos anteriores.
     -La mayoría tienen un grado universitario (563) o han terminado el instituto (305).
     -Además, podemos ver que la mayoría de personas que respondieron de forma positiva a la anterior campaña tenían una hipoteca contratada (797) o un producto (938). Sin embargo, el número de personas con otro tipo de préstamo era muy bajo (217).
+
+
+Ahora pasamos a representar estos datos con gráficos usando seaborn y matplotlib.
+
+Cantidad de éxitos de la campaña anterior por rango de edad:
+![alt text](image-1.png)
+
+Cantidad de éxitos de la campaña anterior por tipo de emepleo:
+![alt text](image-2.png)
+
+Distribución de éxitos de la campaña anterior por estado marital:
+![alt text](image-4.png)
+
+Cantidad de éxitos de la campaña anterior por el nivel de estudios:
+![alt text](image-5.png)
+
+Distribución de éxitos de la campaña anterior según préstamo hipotecario:
+![alt text](image-6.png)
+
+Distribución de éxitos de la campaña anterior según otro préstamo:
+![alt text](image-7.png)
+
+Distribución de éxitos de la campaña anterior según otro préstamo:
+![alt text](image-8.png)
+
+
+Con estos datos, podemos decidir si queremos orientar la campaña actual a aquellas personas con las que hay una mayor posibilidad de éxito o si queremos captar a aquellas que están más indecisas.
